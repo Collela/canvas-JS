@@ -19,3 +19,21 @@ canvas{
     height: 300px;
     background-color: #fff;
 }
+.buttons{
+    display: flex;
+    padding: 10px;
+    background-color: #055852;
+    border-radius: 5px;
+}
+.iptColor{
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.clear{
+    border: none;
+    border-radius: 5px;
+    padding: 6px 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
